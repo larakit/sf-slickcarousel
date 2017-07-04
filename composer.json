@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-slickcarousel",
+    "description": "[Larakit] [staticfiles] slickCarousel",
+    "version": "1.0.0",
+    "license": "MIT",
+    "require":{
+        "larakit/sf-jquery":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
